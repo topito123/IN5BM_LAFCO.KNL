@@ -1,13 +1,13 @@
 
-body{
-    margin: 0;
-    padding: 0;
+body {
     font-family: 'Arial', sans-serif;
     background-color: #FEEBD1; /* Fondo cálido */
-   
- 
-  
-    
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
  
 .container {
