@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #FEEBD1; /* Fondo cálido */
+    background-color: #FEEBD1; 
     margin: 0;
     padding: 0;
     display: flex;
@@ -10,7 +10,7 @@ body {
 }
  
 .container {
-    background-color: #FFF6E5; /* Fondo del contenedor */
+    background-color: #FFF6E5; 
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -20,7 +20,7 @@ body {
 }
  
 h1, h2, h3 {
-    color: #A67B5B; /* Marrón oscuro */
+    color: #A67B5B; 
     margin-bottom: 20px;
 }
  
@@ -33,21 +33,21 @@ ul {
 li {
     font-size: 18px;
     margin-bottom: 12px;
-    background-color: #FFF1D4; /* Fondo de cada elemento de la lista */
+    background-color: #FFF1D4; 
     padding: 10px;
     border-radius: 4px;
     transition: background-color 0.3s ease;
-    display: inline-block; /* Añadido para centrar los elementos en línea */
-    width: 100%; /* Para que los elementos se mantengan centrados */
+    display: inline-block; 
+    width: 100%; 
 }
  
 li:hover {
-    background-color: #FFE4BA; /* Color de fondo al pasar el mouse */
+    background-color: #FFE4BA;
 }
  
 li a {
     text-decoration: none;
-    color: #3D9947; /* Verde oscuro para los enlaces */
+    color: #3D9947; 
     font-weight: bold;
 }
  
